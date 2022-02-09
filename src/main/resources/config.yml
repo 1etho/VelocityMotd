@@ -1,0 +1,31 @@
+general:
+  # Disable an option by deleting its value so only the key remains.
+
+  # Placeholder that is used in formatting, refer to it with %server-prefix%
+  server-name: "Server Name"
+
+  # Max amount of players displayed
+  max-players: -1
+
+  # Amount of online players
+  online-players:
+
+  # Modify the protocol and name
+  version:
+    protocol:
+    name:
+
+  # Your custom MOTDs, will be picked at random.
+  motd:
+    1:
+      line-1: "&#58fb00&l&o&nv&#74fc04&l&o&nM&#8ffc07&l&o&no&#abfd0b&l&o&nt&#c6fd0e&l&o&nd"
+      center-1: true
+      line-2: "&#fb0000&oC&#fb0800&ou&#fb1000&os&#fb1800&ot&#fb2000&oo&#fb2800&om&#fc3000&oi&#fc3800&oz&#fc4000&oe &#fc4800&om&#fc5000&oe &#fc5800&oi&#fc5f00&on &#fc6700&oc&#fc6f00&oo&#fc7700&on&#fc7f00&of&#fd8700&oi&#fd8f00&og&#fd9700&o.&#fd9f00&oy&#fda700&om&#fdaf00&ol"
+      center-2: true
+      icon: "icon.png"
+    2:
+      line-1: "&#fb0000&oA&#fb0d00&on&#fb1900&oo&#fb2600&ot&#fc3200&oh&#fc3f00&oe&#fc4b00&or &#fc5800&oM&#fc6400&oO&#fc7100&oT&#fc7d00&oD&#fd8a00&o?&#fd9600&o!&#fda300&o?&#fdaf00&o!"
+      center-1: true
+      line-2: "&#0099fbD&#209cdco&#3f9fbcd&#5fa19dg&#7fa47ey &#9ea75el&#beaa3fi&#ddac1fn&#fdaf00e"
+      center-2: false
+      icon: "icon.png"
